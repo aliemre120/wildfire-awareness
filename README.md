@@ -1,4 +1,6 @@
 # Wildfire Awareness & Reporting (C + SQLite)
+> TR Bu proje, orman yangını farkındalığını artırmak ve basit bir SQLite tabanlı sistemle yangın raporlamasını kolaylaştırmak amacıyla geliştirilmiştir.
+> EN This project has been developed to raise awareness about forest fires and to facilitate fire reporting with a simple SQLite-based system.
 
 A bilingual (TR/EN) console app to **estimate wildfire risk**, **report new fires**, **mark extinguished fires**, and **list active/all fires** using a local **SQLite** database.
 
@@ -127,21 +129,13 @@ Add console screenshots or a short demo **GIF**:
 - Try marking the same ID extinguished twice (second call should be no-op).
 - Input validation around menus and temperature/humidity ranges.
 
+ **GitHub Topics:** `c`, `sqlite`, `console-app`, `wildfire`, `disaster-tech`, `bilingual`, `cli`
+
 ---
 
 ## 🛡️ License
 This project is licensed under the **MIT License** (see `LICENSE`).
 
-## 🙌 Acknowledgements
-- SQLite: https://www.sqlite.org
-- (Optional) WHO citation used in awareness text.
-
----
-
-## 🔖 GitHub Topics
-Add topics to improve discoverability: `c`, `sqlite`, `console-app`, `wildfire`, `disaster-tech`, `bilingual`, `cli`
-
----
 
 ## 🤝 Contributing
 PRs and issues are welcome. For larger changes, please open an issue first to discuss.
@@ -149,6 +143,5 @@ PRs and issues are welcome. For larger changes, please open an issue first to di
 ---
 
 ## 📧 Contact
-Replace with your links:
 - LinkedIn: [Ali Emre Yılmaz](https://www.linkedin.com/in/ali-emre-y%C4%B1lmaz-96510a34b/)
 - Email: aliemreyilmaz120@gmail.com
