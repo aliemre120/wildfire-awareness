@@ -1,0 +1,27 @@
+# Binaries
+wildfire
+wildfire.exe
+wildfire_new.exe
+*.dll
+*.so
+*.dylib
+
+# Build artefacts
+*.o
+*.obj
+*.pdb
+*.ilk
+*.log
+
+# SQLite databases (keep a blank one only if needed)
+*.db
+!wildfire.db
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+*.code-workspace
